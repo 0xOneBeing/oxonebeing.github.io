@@ -1,0 +1,25 @@
+.hide {
+	display: none;
+}
+.high-voltage {
+	display: inline-flex;
+}
+nav {
+	color: greenyellow;
+}
+section {
+	height: 100vh;
+	border: 0;
+}
+.first {
+	background-color: greenyellow;
+}
+.about {
+	background-color: brown;
+}
+.projects {
+	background-color: orange;
+}
+.contact {
+	background-color: rebeccapurple;
+}
